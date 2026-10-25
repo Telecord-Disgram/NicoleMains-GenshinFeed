@@ -44547,3 +44547,234 @@ https://t.me/team_mew/8178
 2026-10-25 15:02:29,573 [main] INFO: Successfully generated new GitHub App installation token
 2026-10-25 15:02:29,582 [main] INFO: Git authentication configured for repository: Telecord-Disgram/NicoleMains-GenshinFeed
 2026-10-25 15:02:31,567 [main] INFO: Log files to be committed: Disgram.log
+2026-10-25 15:03:31,839 [main] INFO: Successfully pulled latest repository state
+2026-10-25 15:03:31,840 [main] INFO: Repository updated with latest changes
+2026-10-25 15:03:31,846 [main] INFO: Chunked 1 channels into 1 worker groups
+2026-10-25 15:03:31,847 [main] INFO: Starting Waitress WSGI server on port 10000...
+2026-10-25 15:03:31,847 [main] INFO: Disgram bot is running with health check endpoint.
+2026-10-25 15:03:31,849 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 15:03:32,039 [main] INFO: Serving on http://0.0.0.0:10000
+2026-10-25 15:03:38,139 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 15:03:52,145 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 15:03:55,435 [main] WARNING: Task queue depth is 1
+2026-10-25 15:03:57,446 [main] INFO: cryptg detected, it will be used for encryption
+2026-10-25 15:03:59,940 [main] INFO: Connecting to 91.108.56.190:443/TcpFull...
+2026-10-25 15:03:59,943 [main] INFO: Connection to 91.108.56.190:443/TcpFull complete!
+2026-10-25 15:04:00,117 [main] INFO: Telethon connected successfully to DC 5 at 91.108.56.190
+2026-10-25 15:08:52,249 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 15:08:55,458 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 15:09:02,438 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 15:14:02,439 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 15:14:05,850 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 15:14:12,945 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 15:19:12,946 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 15:19:15,942 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 15:19:22,742 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 15:24:22,743 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 15:24:26,049 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 15:24:32,746 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 15:29:32,747 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 15:29:36,041 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 15:29:43,238 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 15:34:43,239 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 15:34:46,848 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 15:34:53,342 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 15:39:53,343 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 15:39:56,651 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 15:40:03,037 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 15:45:03,037 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 15:45:06,244 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 15:45:12,636 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 15:50:12,637 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 15:50:15,946 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 15:50:22,638 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 15:55:22,641 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 15:55:25,941 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 15:55:32,157 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 16:00:32,158 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 16:00:35,658 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 16:00:42,540 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 16:05:42,541 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 16:05:45,936 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 16:05:52,046 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 16:10:52,047 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 16:10:55,246 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 16:11:01,248 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 16:16:01,249 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 16:16:04,549 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 16:16:11,747 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 16:21:11,748 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 16:21:14,738 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 16:21:20,439 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 16:23:06,424 [main] WARNING: Task queue depth is 1
+2026-10-25 16:26:20,440 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 16:26:23,756 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 16:26:31,545 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 16:31:31,546 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 16:31:34,739 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 16:31:41,346 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 16:36:41,347 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 16:36:44,535 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 16:36:52,840 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 16:41:52,841 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 16:41:56,039 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 16:42:03,035 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 16:47:03,036 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 16:47:06,244 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 16:47:12,545 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 16:52:12,546 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 16:52:15,539 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 16:52:22,437 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 16:57:22,439 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 16:57:25,748 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 16:57:32,545 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 17:02:32,546 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 17:02:35,741 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 17:02:42,748 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 17:07:42,749 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 17:07:45,643 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 17:07:52,035 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 17:12:52,037 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 17:12:55,548 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 17:13:01,836 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 17:18:01,838 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 17:18:05,554 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 17:18:11,835 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 17:23:11,836 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 17:23:14,937 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 17:23:21,840 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 17:28:21,840 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 17:28:25,039 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 17:28:30,847 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 17:33:30,848 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 17:33:34,348 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 17:33:41,341 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 17:38:41,343 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 17:38:44,744 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 17:38:51,440 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 17:43:51,441 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 17:43:54,646 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 17:44:01,645 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 17:49:00,983 [main] INFO: Got difference for account updates
+2026-10-25 17:49:01,649 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 17:49:05,042 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 17:49:11,538 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 17:54:11,539 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 17:54:14,648 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 17:54:21,439 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 17:59:21,440 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 17:59:24,450 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 17:59:31,241 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 18:04:01,083 [main] INFO: Got difference for channel 1695568528 updates
+2026-10-25 18:04:01,121 [main] INFO: Got difference for channel 2325984254 updates
+2026-10-25 18:04:31,242 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 18:04:34,246 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 18:04:40,149 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 18:09:40,235 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 18:09:43,455 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 18:09:49,844 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 18:14:49,845 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 18:14:53,047 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 18:14:59,948 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 18:19:59,950 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 18:20:03,441 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 18:20:10,138 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 18:25:10,139 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 18:25:13,238 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 18:25:18,941 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 18:30:18,942 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 18:30:22,343 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 18:30:29,844 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 18:35:29,844 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 18:35:33,439 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 18:35:36,419 [main] WARNING: Task queue depth is 1
+2026-10-25 18:35:41,335 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 18:40:41,336 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 18:40:44,445 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 18:40:49,947 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 18:45:49,948 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 18:45:52,939 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 18:45:59,248 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 18:50:59,249 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 18:51:02,348 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 18:51:08,444 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 18:56:08,445 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 18:56:12,038 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 18:56:18,546 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 19:01:18,547 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 19:01:21,841 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 19:01:28,140 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 19:06:28,141 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 19:06:31,139 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 19:06:37,242 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 19:11:37,243 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 19:11:40,341 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 19:11:46,741 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 19:16:46,743 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 19:16:49,741 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 19:16:56,449 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 19:21:56,450 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 19:21:59,743 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 19:22:05,646 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 19:27:05,647 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 19:27:08,935 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 19:27:15,647 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 19:32:15,648 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 19:32:18,749 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 19:32:26,336 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 19:37:26,337 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 19:37:29,438 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 19:37:37,241 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 19:42:37,242 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 19:42:40,442 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 19:42:46,737 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 19:47:46,738 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 19:47:49,940 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 19:47:56,437 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 19:52:56,437 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 19:52:59,941 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 19:53:06,349 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 19:58:06,350 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 19:58:09,442 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 19:58:15,946 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 20:03:15,947 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 20:03:19,048 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 20:03:25,151 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 20:08:25,152 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 20:08:28,146 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 20:08:34,949 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 20:13:34,950 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 20:13:37,945 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 20:13:44,237 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 20:18:44,238 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 20:18:47,550 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 20:18:54,148 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 20:23:54,149 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 20:23:57,140 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 20:24:02,949 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 20:29:02,950 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 20:29:06,237 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 20:29:11,837 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 20:34:11,840 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 20:34:15,345 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 20:34:22,047 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 20:39:22,048 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 20:39:25,244 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 20:39:31,753 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 20:44:31,754 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 20:44:34,749 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 20:44:40,237 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 20:49:40,238 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 20:49:43,645 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 20:49:51,036 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 20:54:51,037 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 20:54:54,236 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 20:55:00,735 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 21:00:00,736 [main] INFO: Spawning worker 0 for channels: team_mew
+2026-10-25 21:00:04,148 [worker-0] INFO: Scraping messages from Telegram channel: team_mew (Attempt 1)
+2026-10-25 21:00:06,437 [main] WARNING: Task queue depth is 1
+2026-10-25 21:00:10,740 [main] INFO: Completed full cycle. Sleeping for 300 seconds.
+2026-10-25 21:03:30,460 [main] INFO: Background commit triggered by scheduled, committing log changes...
+2026-10-25 21:03:31,345 [main] INFO: Successfully generated new GitHub App installation token
+2026-10-25 21:03:31,360 [main] INFO: Git authentication configured for repository: Telecord-Disgram/NicoleMains-GenshinFeed
+2026-10-25 21:03:33,537 [main] INFO: Log files to be committed: Disgram.log
